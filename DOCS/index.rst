@@ -2,7 +2,7 @@ PIANI DI APPRENDIMENTO
 =========================
 
 Benvenuto, di seguito potrai consultare i piani di apprendimento che offre il nostro corso:
-=======
+-------
 
 Una volta impostato un \ |LINK1|\ , è possibile creare un modello di piano di apprendimento. Un modello di piano di apprendimento definisce un insieme di competenze che è possibile assegnare a un gruppo di utenti. Utilizzare questi piani di apprendimento è meglio che crearne di individuali per molti studenti diversi e significa che è sufficiente aggiornare il modello e le modifiche verranno visualizzate per tutti gli studenti.	
 
