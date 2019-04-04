@@ -7,7 +7,7 @@ clicca qui_ per visualizzare i piani di apprendimento
 
 clicca qui_ per visualizzare la guida completa su come creare lezioni
 
-clicca qui_ per visualizzare la guida completa su come creare quiz 
+clicca quii_ per visualizzare la guida completa su come creare quiz 
 
 .. _qui: http://english-course-prova1.readthedocs.io/en/latest/DOCS/index.html
-.. _qui1: http://english-course-prova1.readthedocs.io/en/latest/README.html
+.. _quii: http://english-course-prova1.readthedocs.io/en/latest/README.html
