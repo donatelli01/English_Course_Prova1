@@ -1,10 +1,12 @@
 English_Course_4CI
 =========
 Qui troverete le guide con i passaggi che illustrano il lavoro da noi svolto:
--------
 
-clicca qui per visualizzare: piani_di_apprendimento_ 
-=========
+
+clicca qui per visualizzare: 
+piani_di_apprendimento_ 
+--------
+
 
 clicca quii_ per visualizzare la guida completa su come creare lezioni
 
