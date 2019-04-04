@@ -13,17 +13,11 @@ TUTORIAL PER LA CREAZIONE DI UNA LESSONS SU MOODLE
 
         Innanzitutto prima di poter creare una lessons in moodle bisonga effettuare l'accesso come Teacher (professore), in modo da poter creare ed modificare una lessons.
 
-        Ecco l'immagine della schermata di login:
-
- 
 
         Qui dovrete inserire il vostro username ed password per eseguire l'accesso, se non si è registrati prima di accedere bisogna registrarsi.
 
         Dopo aver eseguito l'accesso come Teacher si potrà creare una lezione.
 
-Ecco la schermata successiva al login:
-
- 
 
          Passaggi per la creazione di una lessons: Passo 1:
 
@@ -227,9 +221,6 @@ Grade:
 
     * Si deve per forza inserire almeno un pulsante, quest'ultimo può portarci alla pagina successiva(se esiste), alla pagina precedente, alla pagina stessa, oppure alla fine della lezione.
 
-         
-
-Ecco un'immagine della schermata:
 
         Add a question page:
 
