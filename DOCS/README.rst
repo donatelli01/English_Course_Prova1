@@ -1,9 +1,12 @@
-ciao
+COME CREARE UNA LEZIONE
 ====
-PER TORNARE INDIETRO_
-PER ANDARE AVANTI_
+Benvenuto, in questa sezione potrai capire come creare una lezione:
+====
 
-o chiama  Martin MCFly
 
-.. _INDIETRO: http://ciao.readthedocs.io/en/latest/DOCS/index.html
-.. _AVANTI: http://ciao.readthedocs.io/en/latest/DOCS/ciao.html
+
+
+
+PER TORNARE ALLA PAGINA INIZALE CLICCA QUI_
+.. _QUI: http://ciao.readthedocs.io/en/latest/DOCS/index.html
+
