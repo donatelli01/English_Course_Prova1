@@ -17,5 +17,5 @@ Come_Creare_Quiz_
 
 
 .. _piani_di_apprendimento: http://english-course-prova1.readthedocs.io/en/latest/DOCS/index.html
-.. _come_creare_lezioni: http://english-course-prova1.readthedocs.io/en/latest/README.html
-.. _Come_Creare_Quiz: http://english-course-prova1.readthedocs.io/en/latest/ciao.html
+.. _come_creare_lezioni: http://english-course-prova1.readthedocs.io/en/latest/DOCS/README.html
+.. _Come_Creare_Quiz: http://english-course-prova1.readthedocs.io/en/latest/DOCS/ciao.html
