@@ -9,10 +9,13 @@ piani_di_apprendimento_
 --------
 
 
-clicca quii_ per visualizzare la guida completa su come creare lezioni
+Come_Creare_Lezioni_
+--------
 
-clicca quiii_ per visualizzare la guida completa su come creare quiz 
+Come_Creare_Quiz_
+--------
+
 
 .. _piani_di_apprendimento: http://english-course-prova1.readthedocs.io/en/latest/DOCS/index.html
-.. _quii: http://english-course-prova1.readthedocs.io/en/latest/README.html
-.. _quiii: http://english-course-prova1.readthedocs.io/en/latest/CIAO.html
+.. _come_creare_lezioni: http://english-course-prova1.readthedocs.io/en/latest/README.html
+.. _Come_Creare_Quiz: http://english-course-prova1.readthedocs.io/en/latest/CIAO.html
