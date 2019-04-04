@@ -6,6 +6,7 @@ Qui troverete le guide con i passaggi che illustrano il lavoro da noi svolto:
 clicca qui per visualizzare: 
 
 piani_di_apprendimento_ 
+
 _http://english-course-prova1.readthedocs.io/en/latest/DOCS/index.html
 
 
