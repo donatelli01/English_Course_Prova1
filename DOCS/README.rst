@@ -1,7 +1,7 @@
 COME CREARE UNA LEZIONE
 ====
 Benvenuto, in questa sezione potrai capire come creare una lezione:
-====
+
 
 TUTORIAL PER LA CREAZIONE DI UNA LESSONS SU MOODLE
 
