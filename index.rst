@@ -5,7 +5,7 @@ Qui troverete le guide con i passaggi che illustrano il lavoro da noi svolto:
 
 clicca qui_ per visualizzare i piani di apprendimento 
 
-clicca qui_ per visualizzare la guida completa su come creare lezioni
+clicca quii_ per visualizzare la guida completa su come creare lezioni
 
 clicca quii_ per visualizzare la guida completa su come creare quiz 
 
