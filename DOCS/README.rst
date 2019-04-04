@@ -3,8 +3,11 @@ COME CREARE UNA LEZIONE
 Benvenuto, in questa sezione potrai capire come creare una lezione:
 ====
 
-Che cos'è Moodle?
-******************
+TUTORIAL PER LA CREAZIONE DI UNA LESSONS SU MOODLE
+
+        Benvenuti nel tutorial per la creazione di una lesson su moodle.
+
+        Che cos'è Moodle?
 
         \ |STYLE0|\  è un ambiente informatico per la gestione di corsi, ispirato al costruzionismo, teoria secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili.
 
@@ -12,53 +15,39 @@ Che cos'è Moodle?
 
         Ecco l'immagine della schermata di login:
 
+ 
+
         Qui dovrete inserire il vostro username ed password per eseguire l'accesso, se non si è registrati prima di accedere bisogna registrarsi.
 
         Dopo aver eseguito l'accesso come Teacher si potrà creare una lezione.
 
+Ecco la schermata successiva al login:
 
+ 
 
-.. Skipped: unable to convert element of type UNSUPPORTED
+         Passaggi per la creazione di una lessons: Passo 1:
 
-        Ecco la schermata successiva al login:
-
-.. _h33427372803d6e41524635645761130:
-
-                        Passaggi per la creazione di una lessons: Passo 1:
-**************************************************************************
-
-                                Innanzitutto per creare una lessons bisogna abilitare le modifiche, per farlo fare click sull'ingranaggio in altro a destra della schermata ed selezionare l'opzione \ |STYLE1|\ 
-
-
-
-.. Skipped: unable to convert element of type UNSUPPORTED
-
-.. _h253c3c7a6a6a1124879567f6550236f:
+        Innanzitutto per creare una lessons bisogna abilitare le modifiche, per farlo fare click sull'ingranaggio in altro a destra della schermata ed selezionare l'opzione \ |STYLE1|\ 
 
 Passo 2:
-********
 
         Dopo aver abilitato l'editing bisogna andare ad selezionare
 
-        \ |STYLE2|\  dopo aver cliccato ci apparirà una finestra con varie opzioni quella che si dovrà scegliere sarà \ |STYLE3|\ (lezione).
+         \ |STYLE2|\  dopo aver cliccato ci apparirà una finestra con varie opzioni quella che si dovrà scegliere sarà \ |STYLE3|\ (lezione).
+
+\ |IMG1|\ 
 
         Dopo aver selezionato \ |STYLE4|\  premere su \ |STYLE5|\  per crearla.
 
-
-
-.. Skipped: unable to convert element of type UNSUPPORTED
-
-.. _h287777101f23121145d352241421e53:
-
 Passo 3:
-********
 
         Dopo aver selezionato \ |STYLE6|\  apparirà una nuova schermata divisa in due parti, nella prima parte ossia quella in alto bisognerà inserire il titolo della nostra lezione, subito sotto se si vuole si può inserire una breve descrizione della lezione quest'ultima può essere fatta visualizzata o meno.
 
-.. _he2a43f29577cc582d78565c2d2b20:
+\ |IMG2|\ 
 
-Passo 4:
-********
+ 
+
+        Passo 4:
 
         Nella stessa schermata, nella seconda parte ossia quella inferiore ci vengono proposte varie opzioni relative alla lezione:
 
@@ -78,14 +67,7 @@ Passo 4:
 
 * Competencies
 
-
-
-.. Skipped: unable to convert element of type UNSUPPORTED
-
-.. _h1f1476332d2f65514f183f3ed5863f:
-
 Appearance:
-***********
 
         Questa opzione ci consente di inserire all'interno della nostre lezioni alcune strumenti:
 
@@ -97,16 +79,11 @@ Appearance:
 
     * Grazie all'ultimo strumento si può inserire un link a fine lezione per
 
-            far si che l'utente possa andarci direttamente senza tornare alla schermata home.
+             far si che l'utente possa andarci direttamente senza tornare alla schermata home.
 
-
-
-.. Skipped: unable to convert element of type UNSUPPORTED
-
-.. _h74751c4a55d50481133523104c1656:
+\ |IMG3|\ 
 
 Availability:
-*************
 
         Questa opzione ci consente di:
 
@@ -118,14 +95,7 @@ Availability:
 
 * Far si che la lezione sia accessibile anche da offline attraverso l'app per i cellulari.
 
-
-
-.. Skipped: unable to convert element of type UNSUPPORTED
-
-.. _h76775745e42306842724a1f7e28505b:
-
 Flow control:
-*************
 
         Questa opzione ci permette di:
 
@@ -139,14 +109,11 @@ Flow control:
 
 * Quante pagine si vuole far vedere.
 
+ 
 
-
-.. Skipped: unable to convert element of type UNSUPPORTED
-
-.. _h175af76dd65f7242627732291418:
+ 
 
 Grade:
-******
 
         Questa opzione ci permette di:
 
@@ -164,14 +131,9 @@ Grade:
 
 * Decidere quante domande fare.
 
+ 
 
-
-.. Skipped: unable to convert element of type UNSUPPORTED
-
-.. _h45451b5559264c5f631d28524963311e:
-
-Common module settings:
-***********************
+        Common module settings:
 
         Questa opzione ci consente di:
 
@@ -189,44 +151,33 @@ Common module settings:
 
 * \ |STYLE10|\  è una \ |STYLE11|\ ollezione di gruppi con dei corsi, questri gruppi possono essere assegnati agli studenti iscritti.
 
+ 
 
-
-.. Skipped: unable to convert element of type UNSUPPORTED
-
-.. _h36c5a3d4945811735211222472365:
-
-Restrict access:
-****************
+        Restrict access:
 
         Questa opzione ci permette di:
 
     * Applicare delle restrizioni di vario tipo:
 
-    #. \ |STYLE12|\ , ossia che impedisce l'accesso alla lezione fino a una determinata data.
+#. \ |STYLE12|\ , ossia che impedisce l'accesso alla lezione fino a una determinata data.
 
-    #. \ |STYLE13|\ , richiede agli studenti di raggiungere un grado specificato per entrare nella lezione.
+#. \ |STYLE13|\ , richiede agli studenti di raggiungere un grado specificato per entrare nella lezione.
 
-    #. \ |STYLE14|\ , controlla l'accesso in base ai campi all'interno del profilo dello studente.
+#. \ |STYLE14|\ , controlla l'accesso in base ai campi all'interno del profilo dello studente.
 
-    #. \ |STYLE15|\  set, permette di aggiungere una serie di restrizioni nidificate.
+#. \ |STYLE15|\  set, permette di aggiungere una serie di restrizioni nidificate.
 
+ 
 
-
-.. Skipped: unable to convert element of type UNSUPPORTED
-
-.. _h324b2d3a535f75244163a753c631e:
-
-Tags:
-*****
+        Tags:
 
         Questa opzione ci consente di:
 
     * Creare dei tag che possono riferirsi alla parte più importante della lezione.
 
-.. _h0821284969386501f7112362e2851:
+ 
 
-Competencies:
-*************
+        Competencies:
 
         Questa opzione ci consente di:
 
@@ -242,15 +193,15 @@ Competencies:
 
 #. \ |STYLE19|\ 
 
+\ |IMG4|\ 
 
-
-.. Skipped: unable to convert element of type UNSUPPORTED
+ 
 
         Passo 5:
 
         Dopo aver settato le opzioni desiderete, fare click su save and display per inizare subito ad aggiungere pagine alla lessons creata.
 
-        Ecco la schermata della aggiunta della pagina:
+         Ecco la schermata della aggiunta della pagina:
 
         Ci sono 2 tipi di pagine da poter selezionare e creare:
 
@@ -264,14 +215,7 @@ Competencies:
 
 #. \ |STYLE25|\ : serve per aggiungere un pulsante in fondo alla lezione, quest'ultimo può portarti in diverse lezione oppure nella pagina successiva oppure nella pagina precedente ecc.. dipende dall'impostazione che gli si da. Comunque si consiglia di crearli all'interno della creazione di una \ |STYLE26|\  o di una \ |STYLE27|\  in modo di organissarsi meglio.
 
-
-
-.. Skipped: unable to convert element of type UNSUPPORTED
-
-.. _h144d382d77d35cf1d79775a3e5a1e:
-
-Add a content page:
-*******************
+        Add a content page:
 
         Questo tipo di foglio ci permette di digitare del testo a nostro piacimento, inoltre è possibile allegare dei link di altri siti, caricare immagini e dimensionarle, creare tabelle ecc…, quindi funzioni simili a quelle che ci vengono date da Word e da LibreOffice.
 
@@ -283,30 +227,26 @@ Add a content page:
 
     * Si deve per forza inserire almeno un pulsante, quest'ultimo può portarci alla pagina successiva(se esiste), alla pagina precedente, alla pagina stessa, oppure alla fine della lezione.
 
-        Ecco un'immagine della schermata:
+         
 
+Ecco un'immagine della schermata:
 
-
-.. Skipped: unable to convert element of type UNSUPPORTED
-
-.. _h7939712548336067797837424643263:
-
-Add a question page:
-********************
+        Add a question page:
 
         A differezna della content page, questa pagina permette di inserire all'interno della lezione dei quiz intermedi offrendo diversi tipi di strutture,ossia:
 
-    #. \ |STYLE28|\ : 4 risposte 1 corretta inoltre è possibile impostare che ci siano più risposte corrette.
+#. \ |STYLE28|\ : 4 risposte 1 corretta inoltre è possibile impostare che ci siano più risposte corrette.
 
-    #. \ |STYLE29|\ : Risposta aperta, breve
+#. \ |STYLE29|\ : Risposta aperta, breve
 
-    #. \ |STYLE30|\ 
+#. \ |STYLE30|\ 
 
-    #. \ |STYLE31|\ : simile alla Multichoice ma la risposta corretta è solo una
+#. \ |STYLE31|\ : simile alla Multichoice ma la risposta corretta è solo una
 
-    #. \ |STYLE32|\ : sono presenti due colonne formate da caselle. L'obbiettivo è formare delle coppie con le caselle delle due colonne.
+#. \ |STYLE32|\ : sono presenti due colonne formate da caselle. L'obbiettivo è formare delle coppie con le caselle delle due colonne.
 
-    #. \ |STYLE33|\ : Data una domanda, lo studente deve sviluppare una risposta aperta argomentando
+#. \ |STYLE33|\ : Data una domanda, lo studente deve sviluppare una risposta aperta argomentando
+
 
 .. bottom of content
 
@@ -343,7 +283,7 @@ Add a question page:
 
 .. |STYLE15| replace:: **Restriction**
 
-.. |STYLE16| replace:: *Fare nulla*
+.. |STYLE16| replace:: **Fare nulla**
 
 .. |STYLE17| replace:: **Allegare la prova**
 
@@ -351,7 +291,7 @@ Add a question page:
 
 .. |STYLE19| replace:: **Completare la competenza.**
 
-.. |STYLE20| replace:: *Add a content page*
+.. |STYLE20| replace:: **Add a content page**
 
 .. |STYLE21| replace:: **Add a question page**
 
@@ -371,7 +311,7 @@ Add a question page:
 
 .. |STYLE29| replace:: **Short Answer**
 
-.. |STYLE30| replace:: *True or False*
+.. |STYLE30| replace:: **True or False**
 
 .. |STYLE31| replace:: **Numerical**
 
@@ -379,12 +319,18 @@ Add a question page:
 
 .. |STYLE33| replace:: **Essay**
 
+.. |IMG1| image:: static/TUTORIAL_LESSONS-convertito_1.png
+   :height: 492 px
+   :width: 481 px
 
+.. |IMG2| image:: static/TUTORIAL_LESSONS-convertito_2.png
+   :height: 132 px
+   :width: 590 px
 
+.. |IMG3| image:: static/TUTORIAL_LESSONS-convertito_3.png
+   :height: 441 px
+   :width: 313 px
 
-PER TORNARE ALLA PAGINA INIZALE CLICCA QUI_
-
-
-
-.. _QUI: http://ciao.readthedocs.io/en/latest/DOCS/index.html
-
+.. |IMG4| image:: static/TUTORIAL_LESSONS-convertito_4.png
+   :height: 134 px
+   :width: 498 px
