@@ -7,7 +7,7 @@ clicca qui per visualizzare:
 
 Piani_Di_Apprendimento_ 
 
---------http://english-course-prova1.readthedocs.io/en/latest/DOCS/index.html
+--------
 
 
 Come_Creare_Lezioni_
